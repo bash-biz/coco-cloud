@@ -1,0 +1,112 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #f1f0e4;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  padding: 50px;
+}
+.section-one {
+  margin: auto;
+  width: 50%;
+  background-color: #7d8d86;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+.section-one__img {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  vertical-align: top;
+}
+
+.section-one__img:hover {
+  transform: rotate(20deg);
+}
+
+.section-one_inlineblock {
+  vertical-align: top;
+  margin-left: 20px;
+  margin-top: 0px;
+  display: inline-block;
+  margin-right: 260px;
+  margin-top: 15px;
+}
+
+.section-one__title {
+  font-family: "Momo Signature", cursive;
+  color: #493628;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.section-one__des {
+  font-style: italic;
+  color: #7f633c;
+}
+
+.section-two {
+  margin: auto;
+  width: 50%;
+  background-color: #bca88d;
+  border-radius: 20px;
+  padding: 40px;
+  border-bottom: solid rgb(168, 124, 92) 5px;
+}
+
+.section-two__img {
+  border: solid #735540 2px;
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+}
+
+.section-two__img,
+.section-two__text,
+.section-two__btn {
+  display: inline-block;
+  vertical-align: top;
+}
+.section-two__text {
+  width: 200px;
+  margin-right: 140px;
+  margin-left: 20px;
+  color: #493628;
+  font-style: italic;
+}
+
+.section-two__btn {
+  height: 100px;
+  width: 100px;
+  font-size: 50px;
+  border-radius: 20px;
+  background-color: #7f633c;
+  border: none;
+  border-bottom: solid rgb(102, 75, 56) 5px;
+}
+
+.section-two__btn:hover {
+  height: 95px;
+  width: 95px;
+  background-color: #664f30;
+  border: none;
+}
+
+.section-two__title {
+  font-family: "Meddon", cursive;
+  font-size: 30px;
+}
+
+.section-three {
+  margin: auto;
+  width: 50%;
+  background-color: #7d8d86;
+  border-radius: 20px;
+  padding: 40px;
+  border-bottom: solid #54605b 5px;
+}
