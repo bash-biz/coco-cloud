@@ -1,5 +1,5 @@
 # Coco Cloud ☕  
-#https://bash-biz.github.io/coco-cloud/
+# https://bash-biz.github.io/coco-cloud/
 
 A one-page website for a warm little hot cocoa shop that serves comfort in a cup.  
 Built to showcase our menu, cozy vibes, and love for all things chocolate.
